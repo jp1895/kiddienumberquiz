@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kiddienumberquiz/static/css/main.e6c13ad2.css",
+    "main.js": "/kiddienumberquiz/static/js/main.50eb9de4.js",
+    "static/js/146.f709f79a.chunk.js": "/kiddienumberquiz/static/js/146.f709f79a.chunk.js",
+    "index.html": "/kiddienumberquiz/index.html",
+    "main.e6c13ad2.css.map": "/kiddienumberquiz/static/css/main.e6c13ad2.css.map",
+    "main.50eb9de4.js.map": "/kiddienumberquiz/static/js/main.50eb9de4.js.map",
+    "146.f709f79a.chunk.js.map": "/kiddienumberquiz/static/js/146.f709f79a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.50eb9de4.js"
+  ]
+}
